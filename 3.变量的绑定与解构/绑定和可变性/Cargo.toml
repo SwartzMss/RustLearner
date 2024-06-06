@@ -1,5 +1,5 @@
 [package]
-name = "hello_cargo"
+name = "绑定和可变性"
 version = "0.1.0"
 edition = "2021"
 

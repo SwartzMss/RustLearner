@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "variable"
+name = "数值类型"
 version = "0.1.0"
