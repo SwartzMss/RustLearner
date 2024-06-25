@@ -1,0 +1,6 @@
+[package]
+name = "方法和关联函数"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
